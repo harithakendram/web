@@ -1,0 +1,26 @@
+/******* Customized Bootstrap ********/
+
+$primary: #087f47;
+$secondary: #FFD33C;
+$light: #F3F3F3;
+$dark: #000000;
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+
+$headings-font-family: 'Roboto', sans-serif;
+
+$body-color: #353535;
+
+$headings-color: $dark;
+
+$headings-font-weight: 700;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: false;
+
+$link-decoration: none;
+
+@import "bootstrap/scss/bootstrap";
